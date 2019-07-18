@@ -205,10 +205,10 @@ A third method:
 The eventListener is add through JavaScript and the function is also written inside the separate JavaScript-file.
 Example part of the HTML:
 ```html
-<!--The button element that will be “listened” to for a ‘click’ event→
+<!--The button element that will be “listened” to for a ‘click’ event-->
 <button id="btn">Click me</button>
 
-<!--The targeted div element of which the EventHandler will change the innerHTML→
+<!--The targeted div element of which the EventHandler will change the innerHTM-->
 <div id="demo">This text will be replaced</div>
 ```
 Example JavaScript:
